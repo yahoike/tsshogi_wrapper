@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # 親ディレクトリを指定（ここが「詰将棋」フォルダ）
-parent_folder = r"D:\Temp\kif\詰将棋3"
+parent_folder = r"D:\Temp\kif"
 
 # Node.js スクリプトのパス
 node_script = r"D:\program\tsshogi_wrapper\convert_kifu_to_sfen.js"
